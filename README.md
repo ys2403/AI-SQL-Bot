@@ -1,5 +1,5 @@
 # AI-SQL-Bot
-# LLM SQL AI Assistant — AtliQ T-Shirts 👕  
+# LLM SQL AI Assistant   
 _Natural-language to SQL Q&A over a MySQL retail dataset, powered by an LLM + few-shot retrieval + LangChain._
 
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B) ![DB](https://img.shields.io/badge/DB-MySQL-4479A1) ![LLM](https://img.shields.io/badge/LLM-Google%20PaLM-4285F4) ![Embeddings](https://img.shields.io/badge/Embeddings-all--MiniLM--L6--v2-6aa84f) ![VectorDB](https://img.shields.io/badge/VectorDB-Chroma-5B6DEF) ![LangChain](https://img.shields.io/badge/Framework-LangChain-000)
