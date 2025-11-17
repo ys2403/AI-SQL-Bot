@@ -25,7 +25,7 @@ The app turns your question into safe MySQL, runs it on the **AtliQ T-Shirts** d
 ---
 
 ## 🧱 Project Structure
----
+```
 LLM-_SQL-AI-SQL-Assistant-main/
 ├─ main.py # Streamlit app (input box → answer)
 ├─ langchain_helper.py # LLM, DB chain, prompt, example selector
@@ -33,7 +33,7 @@ LLM-_SQL-AI-SQL-Assistant-main/
 ├─ db_creation_atliq_t_shirts.sql # MySQL schema + seed data
 ├─ requirements.txt # Python dependencies
 └─ t_shirt_sales_llm.ipynb # (Optional) Exploration notebook
----
+```
 ## 🔧 Tech Stack
 
 - **LLM**: `langchain.llms.GooglePalm` (temperature ~0.1)
